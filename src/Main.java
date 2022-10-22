@@ -7,6 +7,11 @@ public class Main {
         System.out.println("Hello world!");
     }
 
+    /**
+     * Added java docs for feature 1
+     * @param a
+     * @param b
+     */
     public void add(int a, int b) {
         System.out.println(a+b);
     }
