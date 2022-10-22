@@ -15,4 +15,13 @@ public class Main {
     public void add(int a, int b) {
         System.out.println(a+b);
     }
+
+    /**
+     * Added java docs for feature 1
+     * @param a
+     * @param b
+     */
+    public void substract(int a, int b) {
+        System.out.println(a-b);
+    }
 }
